@@ -117,7 +117,7 @@ i-->
      |       used together.
      |
     <server>
-      <id>nexus</id>
+      <id>nexusinsatnce</id>
       <username>admin</username>
       <password>Kerchaoui123@</password>
     </server>
