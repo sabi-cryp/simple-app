@@ -119,12 +119,12 @@ i-->
     <server>
       <id>nexusinsatnce</id>
       <username>admin</username>
-      <password>Kerchaoui123@</password>
+      <password>admin123@</password>
     </server>
     -->
     <server>
       <id>nexusinstance</id>
-      <username>sabrinekerchaoui</username>
+      <username>admin</username>
       <password>Kerchaoui123@</password>
     </server>
 
