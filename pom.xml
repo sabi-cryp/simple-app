@@ -48,7 +48,7 @@
     <version>3.0.0-M1</version>
     <executions>
         <execution>
-            <id>deploy-jar-file</id>
+            <id>deploy-war-file</id>
             <phase>deploy</phase>
             <goals>
                 <goal>deploy-file</goal>
